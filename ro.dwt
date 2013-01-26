@@ -1,0 +1,89 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" dir="ltr">
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<!-- #BeginEditable "doctitle" -->
+<title></title>
+<!-- #EndEditable -->
+<link rel="stylesheet" title="CSS" type="text/css" href="css/style1.css" media="screen" />
+</head>
+
+<body>
+
+<!-- Begin Container -->
+<div id="container">
+	<!-- Begin Masthead -->
+	<div id="masthead" style="height: 240px">
+		<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=8,0,0,0" width="800" height="240" id="restaurare" align="middle"> 
+<param name="allowScriptAccess" value="sameDomain" /> 
+<param name="movie" value="images/restaurare.swf" /><param name="quality" value="high" /><param name="bgcolor" value="#ffffff" /><embed src="images/restaurare.swf" quality="high" bgcolor="#ffffff" width="800" height="240" name="restaurare" align="middle" allowScriptAccess="sameDomain" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" /> 
+</object>
+	<!-- office (000) 000-0000<br />
+		fax (000) 000-0000<br />
+		toll-free (000) 000-0000 -->
+	</div>
+	<!-- End Masthead -->
+	<!-- Begin Navigation -->
+	<div id="navigation">
+		<ul>
+			<li><a href="index.html">Home</a></li>
+			<li><a href="about/noi.htm">Despre Noi</a></li>
+			<li><a href="wood/lemn.htm">Lemn</a></li>
+			<li><a href="stone/piatra.htm">Piatra</a></li>
+			<li><a href="metal/metal.htm">Metal</a></li>
+			<li><a href="service/servicii.htm">Alte servicii</a></li>
+			<li><a href="photo/galerie_foto.htm">Galerie Foto</a></li>
+			<li><a href="contact/contact.htm">Contact</a></li>
+		</ul>
+	</div>
+	<!-- End Navigation -->
+	<!-- Begin Page Content -->
+	<div id="page_content">
+		<!-- Begin Left Column -->
+		<div id="column_l">
+			<!-- #BeginEditable "content" -->
+			<h2>Headline 2</h2>
+			<p>insert content here</p>
+			<!-- #EndEditable --></div>
+		<!-- End Left Column -->
+		<!-- End Right Column --->
+		<div id="column_r">
+			<!-- #BeginEditable "sidebar" -->
+			<h3>Headline 3</h3>
+			<p>insert content here</p>
+			<!-- #EndEditable --></div>
+		<!-- End Right Column --></div>
+	<!-- End Page Content -->
+	<!-- Begin Footer -->
+	<div id="footer">
+		<p><a href="index.html">Home</a> | <a href="about/noi.htm">Despre noi</a> |
+		<a href="wood/lemn.htm">Lemn</a> |<a href="stone/piatra.htm">Piatra</a> |
+		<a href="metal/metal.htm">Metal</a> |
+		<a href="service/servicii.htm">Alte servicii</a> |
+		<a href="photo/galerie_foto.htm">Galerie Foto</a> |
+		<a href="contact/contact.htm">Contact</a> |
+	<!-- <a href="employees/employees.htm">Employees</a> |
+		<a href="employment/employment.htm">Employment</a> |
+		<a href="faq/faq.htm">FAQ</a> |
+		<a href="information_links/information_links.htm">Information Links</a>	|  
+		<a href="photo_gallery/photo_gallery.htm">Photo Gallery</a> |
+		<a href="press/press.htm">Press</a> | 
+		<a href="promotions/promotions.htm">Promotions</a> |
+		<a href="site_map/site_map.htm">Site Map</a>--></p>
+		<p>Copyright © 2008 Valicom SRL. All Rights Reserved.</p>
+	</div>
+	<!-- End Footer --></div>
+<!-- End Container -->
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-5468348-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+</body>
+
+</html>
